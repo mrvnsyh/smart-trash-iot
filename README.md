@@ -1,6 +1,4 @@
 # Smart Trash Bin Based on IoT Automation
-![Uploading Screenshot 2024-10-07 213308.png…]()
-
 ## Project Overview
 This project involves the development of a **Smart Trash Bin** using an IoT embedded system. The system integrates hardware components such as sensors and a WiFi module, programmed via the **Arduino IDE**, and connects to the **ThingsBoard** IoT platform for monitoring and control. The aim is to automate waste management by creating a smart system that can detect trash, open the lid automatically, and provide real-time monitoring data via IoT.
 
