@@ -72,10 +72,4 @@ This project involves the development of a **Smart Trash Bin** using an IoT embe
 - Once the system is powered on, the data will start being transmitted to the ThingsBoard dashboard.
 - Monitor the bin status, trash levels, and other sensor data remotely.
 
-**License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Acknowledgments**
-Arduino
-ThingsBoard
-Open-source libraries and contributors
